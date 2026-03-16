@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
+| [0049-group-anagrams](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 ## Two Pointers
@@ -18,15 +19,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
