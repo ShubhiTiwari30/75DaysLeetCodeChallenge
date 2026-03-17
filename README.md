@@ -20,12 +20,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0205-isomorphic-strings](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## String
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0205-isomorphic-strings](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
