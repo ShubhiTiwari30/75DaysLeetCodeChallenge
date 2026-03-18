@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0049-group-anagrams](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0219-contains-duplicate-ii](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
@@ -78,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
+## Binary Search
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 <!---LeetCode Topics End-->
