@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0303-range-sum-query-immutable) |
 ## Prefix Sum
 |  |
@@ -93,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0152-maximum-product-subarray) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
