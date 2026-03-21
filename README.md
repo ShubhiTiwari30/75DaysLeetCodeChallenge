@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0152-maximum-product-subarray) |
 ## Stack
 |  |
@@ -107,4 +108,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0316-remove-duplicate-letters) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
