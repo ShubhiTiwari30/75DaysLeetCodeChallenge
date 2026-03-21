@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0152-maximum-product-subarray) |
 | [0219-contains-duplicate-ii](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0283-move-zeroes](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
 | ------- |
