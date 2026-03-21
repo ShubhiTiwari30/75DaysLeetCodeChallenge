@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0455-assign-cookies](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 ## Two Pointers
@@ -26,12 +27,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0455-assign-cookies) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0045-jump-game-ii) |
 | [0316-remove-duplicate-letters](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0316-remove-duplicate-letters) |
+| [0455-assign-cookies](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0455-assign-cookies) |
 ## Hash Table
 |  |
 | ------- |
@@ -55,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0455-assign-cookies](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0455-assign-cookies) |
 ## Sliding Window
 |  |
 | ------- |
