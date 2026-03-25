@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0152-maximum-product-subarray) |
 ## Stack
 |  |
