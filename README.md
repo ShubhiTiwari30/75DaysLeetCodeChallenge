@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0416-partition-equal-subset-sum](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0152-maximum-product-subarray) |
+| [0416-partition-equal-subset-sum](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0416-partition-equal-subset-sum) |
 ## Stack
 |  |
 | ------- |
