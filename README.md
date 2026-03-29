@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0155-min-stack) |
 | [0316-remove-duplicate-letters](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0316-remove-duplicate-letters) |
 ## Monotonic Stack
