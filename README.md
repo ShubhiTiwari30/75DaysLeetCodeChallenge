@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0303-range-sum-query-immutable) |
 ## Prefix Sum
 |  |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0316-remove-duplicate-letters) |
 ## Monotonic Stack
 |  |
@@ -167,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
