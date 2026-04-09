@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0543-diameter-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0785-is-graph-bipartite](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0785-is-graph-bipartite) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0199-binary-tree-right-side-view) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0785-is-graph-bipartite](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0785-is-graph-bipartite) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -237,4 +239,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0222-count-complete-tree-nodes) |
+## Union-Find
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0785-is-graph-bipartite) |
+## Graph Theory
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
