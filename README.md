@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0455-assign-cookies) |
+| [0542-01-matrix](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0152-maximum-product-subarray) |
 | [0416-partition-equal-subset-sum](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0416-partition-equal-subset-sum) |
+| [0542-01-matrix](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0542-01-matrix) |
 ## Stack
 |  |
 | ------- |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0102-binary-tree-level-order-traversal) |
 | [0130-surrounded-regions](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0199-binary-tree-right-side-view) |
+| [0542-01-matrix](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0542-01-matrix) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0785-is-graph-bipartite) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -257,4 +260,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0130-surrounded-regions) |
+| [0542-01-matrix](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0542-01-matrix) |
 <!---LeetCode Topics End-->
