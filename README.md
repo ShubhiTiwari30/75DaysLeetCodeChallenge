@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
+| [0994-rotting-oranges](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0994-rotting-oranges) |
 ## Two Pointers
 |  |
 | ------- |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0785-is-graph-bipartite) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0994-rotting-oranges](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0994-rotting-oranges) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -261,4 +263,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0542-01-matrix) |
+| [0994-rotting-oranges](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
