@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0994-rotting-oranges](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0994-rotting-oranges) |
+| [1584-min-cost-to-connect-all-points](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/1584-min-cost-to-connect-all-points) |
 ## Two Pointers
 |  |
 | ------- |
@@ -255,10 +256,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0130-surrounded-regions) |
 | [0785-is-graph-bipartite](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0785-is-graph-bipartite) |
+| [1584-min-cost-to-connect-all-points](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/1584-min-cost-to-connect-all-points) |
 ## Graph Theory
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0785-is-graph-bipartite) |
+| [1584-min-cost-to-connect-all-points](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/1584-min-cost-to-connect-all-points) |
 ## Matrix
 |  |
 | ------- |
@@ -269,4 +272,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0040-combination-sum-ii) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
