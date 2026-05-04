@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0152-maximum-product-subarray) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Memoization
@@ -298,4 +300,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0802-find-eventual-safe-states) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
