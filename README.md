@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0455-assign-cookies) |
+| [0494-target-sum](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0542-01-matrix) |
 ## Stack
 |  |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0040-combination-sum-ii) |
+| [0494-target-sum](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0494-target-sum) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
