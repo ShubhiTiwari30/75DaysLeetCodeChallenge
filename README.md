@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0994-rotting-oranges](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0994-rotting-oranges) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0542-01-matrix) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -322,4 +324,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0062-unique-paths) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Segment Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
