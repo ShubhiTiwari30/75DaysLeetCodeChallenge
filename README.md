@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0088-merge-sorted-array) |
+| [0142-linked-list-cycle-ii](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0455-assign-cookies) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0142-linked-list-cycle-ii](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0219-contains-duplicate-ii) |
@@ -334,4 +336,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Linked List
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
