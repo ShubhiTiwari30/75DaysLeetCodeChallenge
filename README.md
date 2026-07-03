@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0072-edit-distance) |
 | [0205-isomorphic-strings](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0205-isomorphic-strings) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0062-unique-paths) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0040-combination-sum-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0095-unique-binary-search-trees-ii) |
 | [0494-target-sum](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0494-target-sum) |
