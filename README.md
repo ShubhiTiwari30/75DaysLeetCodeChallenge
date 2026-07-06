@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0130-surrounded-regions) |
+| [0136-single-number](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0222-count-complete-tree-nodes) |
 ## Union-Find
 |  |
