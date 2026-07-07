@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0337-house-robber-iii) |
+| [0338-counting-bits](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0516-longest-palindromic-subsequence) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0222-count-complete-tree-nodes) |
+| [0338-counting-bits](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0338-counting-bits) |
 ## Union-Find
 |  |
 | ------- |
