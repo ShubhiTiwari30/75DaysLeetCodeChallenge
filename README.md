@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0189-rotate-array) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0072-edit-distance) |
+| [0125-valid-palindrome](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/ShubhiTiwari30/75DaysLeetCodeChallenge/tree/master/0316-remove-duplicate-letters) |
